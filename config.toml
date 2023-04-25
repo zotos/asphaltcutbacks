@@ -1,9 +1,8 @@
-baseURL = "https://zotos.github.io/asphaltcutbacks"
-#themesDir = "themes"
+baseURL = "https://zotos.github.io/"
+themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"
 title = "Asphalt Cutbacks Inc."
-publishDir = "docs"
 
 [module]
   [module.hugoVersion]

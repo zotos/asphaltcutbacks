@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/services/bur/</loc>
+    <loc>https://zotos.github.io/services/bur/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>/services/cutback/</loc>
+    <loc>https://zotos.github.io/services/cutback/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url><url>
-    <loc>/team/sage-kirk/</loc>
+    <loc>https://zotos.github.io/team/sage-kirk/</loc>
     <lastmod>2018-11-19T10:47:58+10:00</lastmod>
   </url><url>
-    <loc>/team/mike-vance/</loc>
+    <loc>https://zotos.github.io/team/mike-vance/</loc>
     <lastmod>2018-12-20T13:44:30+10:00</lastmod>
   </url><url>
-    <loc>/team/robert-johnson/</loc>
+    <loc>https://zotos.github.io/team/robert-johnson/</loc>
     <lastmod>2018-12-20T13:44:23+10:00</lastmod>
   </url><url>
-    <loc>/services/is/</loc>
+    <loc>https://zotos.github.io/services/is/</loc>
     <lastmod>2018-11-28T15:15:26+10:00</lastmod>
   </url><url>
-    <loc>/team/tamara-ells/</loc>
+    <loc>https://zotos.github.io/team/tamara-ells/</loc>
     <lastmod>2018-12-20T13:44:55+10:00</lastmod>
   </url><url>
-    <loc>/services/custom/</loc>
+    <loc>https://zotos.github.io/services/custom/</loc>
     <lastmod>2018-11-28T15:15:34+10:00</lastmod>
   </url><url>
-    <loc>/team/susan-shelton/</loc>
+    <loc>https://zotos.github.io/team/susan-shelton/</loc>
     <lastmod>2018-12-20T13:45:06+10:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://zotos.github.io/</loc>
     <lastmod>2018-12-20T13:45:06+10:00</lastmod>
   </url><url>
-    <loc>/team/</loc>
+    <loc>https://zotos.github.io/team/</loc>
     <lastmod>2018-12-20T13:45:06+10:00</lastmod>
   </url><url>
-    <loc>/services/</loc>
+    <loc>https://zotos.github.io/services/</loc>
     <lastmod>2018-11-28T15:15:34+10:00</lastmod>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>https://zotos.github.io/contact/</loc>
     <lastmod>2018-02-22T17:01:34+07:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://zotos.github.io/about/</loc>
     <lastmod>2018-02-22T17:01:34+07:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://zotos.github.io/categories/</loc>
   </url><url>
-    <loc>/404/</loc>
+    <loc>https://zotos.github.io/404/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://zotos.github.io/tags/</loc>
   </url>
 </urlset>
