@@ -8,7 +8,7 @@ weight: 1
 
 Roofing asphalt is a widely used material for flat roofs, providing excellent protection against the elements and weather. One popular type of roofing system that utilizes asphalt is built-up roofing (BUR). BUR consists of multiple layers of reinforcing fabric, known as felts, that are bonded together with hot asphalt.
 
-![Accounting Services](/images/illustrations/cartons.png)
+![BUR](/asphaltcutbacks/images/illustrations/cartons.png)
 
 # Built-Up Roofing: A Time-Tested Solution for Flat Roofs
 
