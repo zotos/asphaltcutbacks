@@ -1,6 +1,6 @@
 baseURL = "https://zotos.github.io/"
 #themesDir = "themes"
-theme = "hugo-serif-theme"
+theme = "https://github.com/zerostaticthemes/hugo-serif-theme"
 languageCode = "en-us"
 title = "Asphalt Cutbacks Inc."
 publishDir = "docs"
